@@ -1,0 +1,79 @@
+[url]
+https://www.youtube.com/watch?v=K5PXiNpvfX0&t=339s&ab_channel=TomBilyeu
+
+[en_curl]
+curl 'https://www.youtube.com/api/timedtext?v=K5PXiNpvfX0&asr_langs=de,en,es,fr,it,ja,ko,nl,pt,ru&caps=asr&exp=xftt&xoaf=4&hl=zh-CN&ip=0.0.0.0&ipbits=0&expire=1612118891&sparams=ip,ipbits,expire,v,asr_langs,caps,exp,xoaf&signature=0F0733E0D33934D4AB3B538C08A5B862E816D399.6AED72F29E6ADFD4F4C4377AD028497A13285DF6&key=yt8&kind=asr&lang=en&fmt=json3' \
+  -H 'authority: www.youtube.com' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'sec-ch-ua: "Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"' \
+  -H 'accept: */*' \
+  -H 'x-requested-with: XMLHttpRequest' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36' \
+  -H 'x-client-data: CIm2yQEIorbJAQjEtskBCKmdygEIrsPKAQj4x8oBCKPNygEI3NXKAQiE5coBCO2YywEIk5rLAQjWm8sBCKidywEIrp3LAQjencsBGPm4ygE=' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://www.youtube.com/watch?v=K5PXiNpvfX0&t=339s&ab_channel=TomBilyeu' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,ja;q=0.6' \
+  -H 'cookie: VISITOR_INFO1_LIVE=0iC8RcbNDho; CONSENT=YES+JP.zh-CN+202009; SID=5weTVSrradEo0ee-h7e_vHLGifgRxbYsdD7PqQ_CXO2SmWr9kDG_cZalwDxNXyq1ERsJZA.; __Secure-3PSID=5weTVSrradEo0ee-h7e_vHLGifgRxbYsdD7PqQ_CXO2SmWr9fSpJjIyVuOSbO76Z99A1iQ.; HSID=A_D6OmXA4ci-4jyBD; SSID=AYQ2kDF_I3443QPVL; APISID=ZP8VZ_bssL8zNrK7/AbUu2A5C_hryLWtHW; SAPISID=lkl72fhrD1buBVbe/AMI9VDgwBYNBd82tH; __Secure-3PAPISID=lkl72fhrD1buBVbe/AMI9VDgwBYNBd82tH; LOGIN_INFO=AFmmF2swRQIhAMZZ92rjJOPdSTUPXCj6iVoZtP8cqOWs0zxKI-AaRQsTAiBXJ4cfxUsXIpTThmRVCof-Zpj9C_r8MvcuPs4YLPfX1A:QUQ3MjNmeVlTZE5PeTBjSGxwR2p5NWlvUFNLNjdSVy1TUkVyODVxY2dzVHNwSUJVLVQ0Rl9VVEdlVVVXZ2xiam5WVXhYaktaZ0pFV1AwRG5Fb1FWWkxSNU12VFBqV1FKc3M4T2I1UDl0clpJQWNFYk14SmRscjZXNDd3TzY5MHFfM3NkZFpURldYYjdHdkU2d2hMYWlzbm1HcnE3MDVZWXE1ZTZYS0RTY202X09hR0YtQ2lOdUJF; PREF=tz=Asia.Shanghai&al=zh-CN&f1=50000000&f4=4000000&f5=20000; YSC=M6RnSuExJyg; SIDCC=AJi4QfH8imahAm2L-MUGI7Y8ndBvu0BxGpYJYpUVNNOdUdYKi_fL3eOhRlVc4DKS62akR15ulw; __Secure-3PSIDCC=AJi4QfHBR0C2k_D_Lp_9D2YOG2kKcJB-_XaYobQecD-Y86L1L-OABTATdDCIQWg5OqR2wFJsRkJG' \
+  --compressed
+
+[zh_curl]
+curl 'https://www.youtube.com/api/timedtext?v=K5PXiNpvfX0&asr_langs=de,en,es,fr,it,ja,ko,nl,pt,ru&caps=asr&exp=xftt&xoaf=4&hl=zh-CN&ip=0.0.0.0&ipbits=0&expire=1612118891&sparams=ip,ipbits,expire,v,asr_langs,caps,exp,xoaf&signature=0F0733E0D33934D4AB3B538C08A5B862E816D399.6AED72F29E6ADFD4F4C4377AD028497A13285DF6&key=yt8&kind=asr&lang=en&fmt=json3&tlang=zh-Hans' \
+  -H 'authority: www.youtube.com' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'sec-ch-ua: "Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"' \
+  -H 'accept: */*' \
+  -H 'x-requested-with: XMLHttpRequest' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36' \
+  -H 'x-client-data: CIm2yQEIorbJAQjEtskBCKmdygEIrsPKAQj4x8oBCKPNygEI3NXKAQiE5coBCO2YywEIk5rLAQjWm8sBCKidywEIrp3LAQjencsBGPm4ygE=' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://www.youtube.com/watch?v=K5PXiNpvfX0&t=339s&ab_channel=TomBilyeu' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,ja;q=0.6' \
+  -H 'cookie: VISITOR_INFO1_LIVE=0iC8RcbNDho; CONSENT=YES+JP.zh-CN+202009; SID=5weTVSrradEo0ee-h7e_vHLGifgRxbYsdD7PqQ_CXO2SmWr9kDG_cZalwDxNXyq1ERsJZA.; __Secure-3PSID=5weTVSrradEo0ee-h7e_vHLGifgRxbYsdD7PqQ_CXO2SmWr9fSpJjIyVuOSbO76Z99A1iQ.; HSID=A_D6OmXA4ci-4jyBD; SSID=AYQ2kDF_I3443QPVL; APISID=ZP8VZ_bssL8zNrK7/AbUu2A5C_hryLWtHW; SAPISID=lkl72fhrD1buBVbe/AMI9VDgwBYNBd82tH; __Secure-3PAPISID=lkl72fhrD1buBVbe/AMI9VDgwBYNBd82tH; LOGIN_INFO=AFmmF2swRQIhAMZZ92rjJOPdSTUPXCj6iVoZtP8cqOWs0zxKI-AaRQsTAiBXJ4cfxUsXIpTThmRVCof-Zpj9C_r8MvcuPs4YLPfX1A:QUQ3MjNmeVlTZE5PeTBjSGxwR2p5NWlvUFNLNjdSVy1TUkVyODVxY2dzVHNwSUJVLVQ0Rl9VVEdlVVVXZ2xiam5WVXhYaktaZ0pFV1AwRG5Fb1FWWkxSNU12VFBqV1FKc3M4T2I1UDl0clpJQWNFYk14SmRscjZXNDd3TzY5MHFfM3NkZFpURldYYjdHdkU2d2hMYWlzbm1HcnE3MDVZWXE1ZTZYS0RTY202X09hR0YtQ2lOdUJF; PREF=tz=Asia.Shanghai&al=zh-CN&f1=50000000&f4=4000000&f5=20000; YSC=M6RnSuExJyg; SIDCC=AJi4QfH8imahAm2L-MUGI7Y8ndBvu0BxGpYJYpUVNNOdUdYKi_fL3eOhRlVc4DKS62akR15ulw; __Secure-3PSIDCC=AJi4QfHBR0C2k_D_Lp_9D2YOG2kKcJB-_XaYobQecD-Y86L1L-OABTATdDCIQWg5OqR2wFJsRkJG' \
+  --compressed
+
+
+[en_json]
+https_proxy=127.0.0.1:7777 curl 'https://www.youtube.com/api/timedtext?v=K5PXiNpvfX0&asr_langs=de,en,es,fr,it,ja,ko,nl,pt,ru&caps=asr&exp=xftt&xoaf=4&hl=zh-CN&ip=0.0.0.0&ipbits=0&expire=1612118891&sparams=ip,ipbits,expire,v,asr_langs,caps,exp,xoaf&signature=0F0733E0D33934D4AB3B538C08A5B862E816D399.6AED72F29E6ADFD4F4C4377AD028497A13285DF6&key=yt8&kind=asr&lang=en&fmt=json3' \
+  -H 'authority: www.youtube.com' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'sec-ch-ua: "Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"' \
+  -H 'accept: */*' \
+  -H 'x-requested-with: XMLHttpRequest' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36' \
+  -H 'x-client-data: CIm2yQEIorbJAQjEtskBCKmdygEIrsPKAQj4x8oBCKPNygEI3NXKAQiE5coBCO2YywEIk5rLAQjWm8sBCKidywEIrp3LAQjencsBGPm4ygE=' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://www.youtube.com/watch?v=K5PXiNpvfX0&t=339s&ab_channel=TomBilyeu' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,ja;q=0.6' \
+  -H 'cookie: VISITOR_INFO1_LIVE=0iC8RcbNDho; CONSENT=YES+JP.zh-CN+202009; SID=5weTVSrradEo0ee-h7e_vHLGifgRxbYsdD7PqQ_CXO2SmWr9kDG_cZalwDxNXyq1ERsJZA.; __Secure-3PSID=5weTVSrradEo0ee-h7e_vHLGifgRxbYsdD7PqQ_CXO2SmWr9fSpJjIyVuOSbO76Z99A1iQ.; HSID=A_D6OmXA4ci-4jyBD; SSID=AYQ2kDF_I3443QPVL; APISID=ZP8VZ_bssL8zNrK7/AbUu2A5C_hryLWtHW; SAPISID=lkl72fhrD1buBVbe/AMI9VDgwBYNBd82tH; __Secure-3PAPISID=lkl72fhrD1buBVbe/AMI9VDgwBYNBd82tH; LOGIN_INFO=AFmmF2swRQIhAMZZ92rjJOPdSTUPXCj6iVoZtP8cqOWs0zxKI-AaRQsTAiBXJ4cfxUsXIpTThmRVCof-Zpj9C_r8MvcuPs4YLPfX1A:QUQ3MjNmeVlTZE5PeTBjSGxwR2p5NWlvUFNLNjdSVy1TUkVyODVxY2dzVHNwSUJVLVQ0Rl9VVEdlVVVXZ2xiam5WVXhYaktaZ0pFV1AwRG5Fb1FWWkxSNU12VFBqV1FKc3M4T2I1UDl0clpJQWNFYk14SmRscjZXNDd3TzY5MHFfM3NkZFpURldYYjdHdkU2d2hMYWlzbm1HcnE3MDVZWXE1ZTZYS0RTY202X09hR0YtQ2lOdUJF; PREF=tz=Asia.Shanghai&al=zh-CN&f1=50000000&f4=4000000&f5=20000; YSC=M6RnSuExJyg; SIDCC=AJi4QfH8imahAm2L-MUGI7Y8ndBvu0BxGpYJYpUVNNOdUdYKi_fL3eOhRlVc4DKS62akR15ulw; __Secure-3PSIDCC=AJi4QfHBR0C2k_D_Lp_9D2YOG2kKcJB-_XaYobQecD-Y86L1L-OABTATdDCIQWg5OqR2wFJsRkJG' \
+  --compressed > en.json
+
+[zh_json]
+https_proxy=127.0.0.1:7777 curl 'https://www.youtube.com/api/timedtext?v=K5PXiNpvfX0&asr_langs=de,en,es,fr,it,ja,ko,nl,pt,ru&caps=asr&exp=xftt&xoaf=4&hl=zh-CN&ip=0.0.0.0&ipbits=0&expire=1612118891&sparams=ip,ipbits,expire,v,asr_langs,caps,exp,xoaf&signature=0F0733E0D33934D4AB3B538C08A5B862E816D399.6AED72F29E6ADFD4F4C4377AD028497A13285DF6&key=yt8&kind=asr&lang=en&fmt=json3&tlang=zh-Hans' \
+  -H 'authority: www.youtube.com' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'sec-ch-ua: "Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"' \
+  -H 'accept: */*' \
+  -H 'x-requested-with: XMLHttpRequest' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36' \
+  -H 'x-client-data: CIm2yQEIorbJAQjEtskBCKmdygEIrsPKAQj4x8oBCKPNygEI3NXKAQiE5coBCO2YywEIk5rLAQjWm8sBCKidywEIrp3LAQjencsBGPm4ygE=' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://www.youtube.com/watch?v=K5PXiNpvfX0&t=339s&ab_channel=TomBilyeu' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,ja;q=0.6' \
+  -H 'cookie: VISITOR_INFO1_LIVE=0iC8RcbNDho; CONSENT=YES+JP.zh-CN+202009; SID=5weTVSrradEo0ee-h7e_vHLGifgRxbYsdD7PqQ_CXO2SmWr9kDG_cZalwDxNXyq1ERsJZA.; __Secure-3PSID=5weTVSrradEo0ee-h7e_vHLGifgRxbYsdD7PqQ_CXO2SmWr9fSpJjIyVuOSbO76Z99A1iQ.; HSID=A_D6OmXA4ci-4jyBD; SSID=AYQ2kDF_I3443QPVL; APISID=ZP8VZ_bssL8zNrK7/AbUu2A5C_hryLWtHW; SAPISID=lkl72fhrD1buBVbe/AMI9VDgwBYNBd82tH; __Secure-3PAPISID=lkl72fhrD1buBVbe/AMI9VDgwBYNBd82tH; LOGIN_INFO=AFmmF2swRQIhAMZZ92rjJOPdSTUPXCj6iVoZtP8cqOWs0zxKI-AaRQsTAiBXJ4cfxUsXIpTThmRVCof-Zpj9C_r8MvcuPs4YLPfX1A:QUQ3MjNmeVlTZE5PeTBjSGxwR2p5NWlvUFNLNjdSVy1TUkVyODVxY2dzVHNwSUJVLVQ0Rl9VVEdlVVVXZ2xiam5WVXhYaktaZ0pFV1AwRG5Fb1FWWkxSNU12VFBqV1FKc3M4T2I1UDl0clpJQWNFYk14SmRscjZXNDd3TzY5MHFfM3NkZFpURldYYjdHdkU2d2hMYWlzbm1HcnE3MDVZWXE1ZTZYS0RTY202X09hR0YtQ2lOdUJF; PREF=tz=Asia.Shanghai&al=zh-CN&f1=50000000&f4=4000000&f5=20000; YSC=M6RnSuExJyg; SIDCC=AJi4QfH8imahAm2L-MUGI7Y8ndBvu0BxGpYJYpUVNNOdUdYKi_fL3eOhRlVc4DKS62akR15ulw; __Secure-3PSIDCC=AJi4QfHBR0C2k_D_Lp_9D2YOG2kKcJB-_XaYobQecD-Y86L1L-OABTATdDCIQWg5OqR2wFJsRkJG' \
+  --compressed > zh.json
